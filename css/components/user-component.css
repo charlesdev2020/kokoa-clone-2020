@@ -11,6 +11,7 @@
     height: 70px;
     border-radius: 30px;
     margin-right: 20px;
+    margin-bottom: 5px;
 }
 .user-component__title {
     font-weight: 600;
@@ -39,7 +40,6 @@
     flex-direction: column;
     align-items: flex-end;
 }
-
 .user-component__time {
     margin-bottom: 10px;
     display: block;
